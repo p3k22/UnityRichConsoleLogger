@@ -1,0 +1,11 @@
+{
+    "name": "com.p3k.unitylogger",
+    "version": "1.0.0",
+    "displayName": "Unity Logger",
+    "description": "",
+    "unity": "2020.1",
+    "documentationUrl": "https://github.com/p3k22/UnityLogger#readme",
+    "author": {
+        "name": "P3k"
+    }
+}
